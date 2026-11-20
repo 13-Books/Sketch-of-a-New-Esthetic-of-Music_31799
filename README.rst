@@ -5,6 +5,12 @@ Sketch of a New Esthetic of Music
 
 This is a git repository of the source files for the book Sketch of a New Esthetic of Music by Baker, Theodore Busoni, Ferruccio. This book is in the Public Domain, see the LICENSE file for details.
 
+MarkBreak edition (spine under ``markbreak/``)
+==============================================
+A MarkBreak multi-file manuscript lives in ``markbreak/`` (open ``markbreak/book.md``).
+See ``markbreak/README.md`` and ``markbreak/CONVERSION.md``.
+
+
 Found an error?
 ===============
 If you find an error in a book in GITenberg, you can report it by clicking the Issues tab in this book’s repository. Please copy-and-paste the entire sentence that contains the error, and what the text should read. For advanced users, you can make a Pull Request on Github.  For more information and how to get involved see the CONTRIBUTING_ section of the GITenberg website.
